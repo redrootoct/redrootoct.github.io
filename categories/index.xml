@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Rootflow</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://redrootoct.github.io/categories/</link>
     <description>Recent content in Categories on Rootflow</description>
     <image>
       <title>Rootflow</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Nov 2026 22:17:41 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://redrootoct.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaggle</title>
-      <link>http://localhost:1313/categories/kaggle/</link>
+      <link>https://redrootoct.github.io/categories/kaggle/</link>
       <pubDate>Wed, 11 Nov 2026 22:17:41 +0300</pubDate>
-      <guid>http://localhost:1313/categories/kaggle/</guid>
+      <guid>https://redrootoct.github.io/categories/kaggle/</guid>
       <description></description>
     </item>
     <item>
       <title>Ml</title>
-      <link>http://localhost:1313/categories/ml/</link>
+      <link>https://redrootoct.github.io/categories/ml/</link>
       <pubDate>Wed, 11 Nov 2026 22:17:41 +0300</pubDate>
-      <guid>http://localhost:1313/categories/ml/</guid>
+      <guid>https://redrootoct.github.io/categories/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Блог</title>
-      <link>http://localhost:1313/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <link>https://redrootoct.github.io/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
       <pubDate>Tue, 10 Nov 2026 11:00:40 +0300</pubDate>
-      <guid>http://localhost:1313/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
+      <guid>https://redrootoct.github.io/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>Приветствие</title>
-      <link>http://localhost:1313/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</link>
+      <link>https://redrootoct.github.io/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</link>
       <pubDate>Tue, 10 Nov 2026 11:00:40 +0300</pubDate>
-      <guid>http://localhost:1313/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</guid>
+      <guid>https://redrootoct.github.io/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
   </channel>

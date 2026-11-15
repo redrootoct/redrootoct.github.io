@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ml on Rootflow</title>
-    <link>http://localhost:1313/categories/ml/</link>
+    <link>https://redrootoct.github.io/categories/ml/</link>
     <description>Recent content in Ml on Rootflow</description>
     <image>
       <title>Rootflow</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Nov 2026 22:17:41 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://redrootoct.github.io/categories/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaggle Playground Series - s6e11</title>
-      <link>http://localhost:1313/post/111126/</link>
+      <link>https://redrootoct.github.io/post/111126/</link>
       <pubDate>Wed, 11 Nov 2026 22:17:41 +0300</pubDate>
-      <guid>http://localhost:1313/post/111126/</guid>
+      <guid>https://redrootoct.github.io/post/111126/</guid>
       <description>&lt;p&gt;Соревнование — прогнозирование мошенничества с картами.
 ROC AUC 0.94405: LightGBM из коробки, 95 строк кода, обошёл нейросеть (0.94053) и Random Forest (0.92613).
 Ценность не в score, а в топ-15 признаках для антифрода.&lt;/p&gt;

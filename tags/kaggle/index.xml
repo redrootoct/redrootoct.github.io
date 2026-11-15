@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kaggle on Rootflow</title>
+    <link>http://localhost:1313/tags/kaggle/</link>
+    <description>Recent content in Kaggle on Rootflow</description>
+    <image>
+      <title>Rootflow</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Nov 2026 22:17:41 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kaggle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle Playground Series - s6e11</title>
+      <link>http://localhost:1313/post/111126/</link>
+      <pubDate>Wed, 11 Nov 2026 22:17:41 +0300</pubDate>
+      <guid>http://localhost:1313/post/111126/</guid>
+      <description>&lt;p&gt;Соревнование — прогнозирование мошенничества с картами.
+ROC AUC 0.94405: LightGBM из коробки, 95 строк кода, обошёл нейросеть (0.94053) и Random Forest (0.92613).
+Ценность не в score, а в топ-15 признаках для антифрода.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Разбираем 11 серию 6 сезона соревнованя серии: прогнозируем мошенничество с банковскими картами. Оценка — ROC AUC, то есть чем ближе score к 1.0, тем лучше.&lt;/p&gt;
+&lt;h2 id=&#34;что-за-соревнование&#34;&gt;Что за соревнование&lt;/h2&gt;
+&lt;p&gt;Playground Series — практическая серия соревнований на платформе Kaggle, в рамках которой ежемесячно публикуются задачи по машинному обучению и нейросетям. В каждом соревновании есть:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

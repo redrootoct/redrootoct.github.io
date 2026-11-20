@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:17:41 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:32:38 +0300</lastBuildDate>
     <atom:link href="https://redrootoct.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relate by Neo4j Hackathon</title>
+      <link>https://redrootoct.github.io/post/201126/</link>
+      <pubDate>Fri, 20 Nov 2026 09:32:38 +0300</pubDate>
+      <guid>https://redrootoct.github.io/post/201126/</guid>
+      <description>&lt;p&gt;Хакатон Relate by Neo4j: собрал MVP — встраиваемая графовая БД Relate и LLM, которая превращает вопрос на естественном языке в Cypher-запрос.
+Данные: 1 млн дел LAPD. Ноутбук на Kaggle, код открыт.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;о-задаче&#34;&gt;О задаче&lt;/h2&gt;
+&lt;p&gt;Участвуем в хакатоне «Relate by Neo4j Hackathon» . Создайте проект, который показывает, как связанные данные помогают агентам, приложениям или людям находить и использовать взаимосвязи. Проект может быть новым или расширять то, что уже есть. Поделитесь кодом и документацией, чтобы другие могли учиться и переиспользовать вашу работу.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kaggle Playground Series - s6e11</title>
       <link>https://redrootoct.github.io/post/111126/</link>

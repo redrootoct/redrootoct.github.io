@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neo4j on Rootflow</title>
+    <link>https://redrootoct.github.io/tags/neo4j/</link>
+    <description>Recent content in Neo4j on Rootflow</description>
+    <image>
+      <title>Rootflow</title>
+      <url>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://redrootoct.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Nov 2026 09:32:38 +0300</lastBuildDate>
+    <atom:link href="https://redrootoct.github.io/tags/neo4j/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relate by Neo4j Hackathon</title>
+      <link>https://redrootoct.github.io/post/201126/</link>
+      <pubDate>Fri, 20 Nov 2026 09:32:38 +0300</pubDate>
+      <guid>https://redrootoct.github.io/post/201126/</guid>
+      <description>&lt;p&gt;Хакатон Relate by Neo4j: собрал MVP — встраиваемая графовая БД Relate и LLM, которая превращает вопрос на естественном языке в Cypher-запрос.
+Данные: 1 млн дел LAPD. Ноутбук на Kaggle, код открыт.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;о-задаче&#34;&gt;О задаче&lt;/h2&gt;
+&lt;p&gt;Участвуем в хакатоне «Relate by Neo4j Hackathon» . Создайте проект, который показывает, как связанные данные помогают агентам, приложениям или людям находить и использовать взаимосвязи. Проект может быть новым или расширять то, что уже есть. Поделитесь кодом и документацией, чтобы другие могли учиться и переиспользовать вашу работу.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
